@@ -123,7 +123,7 @@ Javascript Files:
  
 
 --------------------------------------------------------------------------------------------------------- 
-
+Kards home page: https://www.styleshout.com/free-templates/kards/
 
 Thanks for downloading from Styleshout :)
   
